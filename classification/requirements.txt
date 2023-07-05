@@ -4,7 +4,7 @@ face-recognition==1.2.3
 face-recognition-models==0.3.0
 ffmpy==0.2.2
 gast==0.2.0
-grpcio==1.14.1
+grpcio==1.53.0
 h5py==2.8.0
 Keras==2.2.0
 Markdown==2.6.11
